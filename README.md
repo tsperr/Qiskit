@@ -6,4 +6,3 @@ In this demo, I provide a beginner's guide to creating Quantum Circuits, creatin
 
 Sources:
 https://qiskit.org/learn
-https://www.youtube.com/watch?v=a1NZC5rqQD8&list=PLOFEBzvs-Vvp2xg9-POLJhQwtVktlYGbY&index=1
